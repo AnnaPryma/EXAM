@@ -12,7 +12,7 @@
   color: white;
 }
 header {
-  background-image: url(/img/header-background.jpg);
+  background-image: url(../img/header-background.jpg);
   background-size: cover;
   height: 90vh;
   display: -webkit-box;
@@ -189,7 +189,7 @@ button:hover:not(.search) {
 }
 .why-choose-us {
   height: 80vh;
-  background-image: url(/img/2-container-ground.jpg);
+  background-image: url(../img/2-container-ground.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -280,7 +280,7 @@ button:hover:not(.search) {
 
 .travel-1 {
   height: 75vh;
-  background-image: url(/img/3-section-1.jpg);
+  background-image: url(../img/3-section-1.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -310,7 +310,7 @@ button:hover:not(.search) {
 }
 .travel-2 {
   height: 75vh;
-  background-image: url(/img/3-section-2.jpg);
+  background-image: url(../img/3-section-2.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -324,7 +324,7 @@ button:hover:not(.search) {
 }
 .feedback {
   height: 80vh;
-  background-image: url(/img/4-section-ground.jpg);
+  background-image: url(../img/4-section-ground.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
